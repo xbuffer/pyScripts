@@ -2,6 +2,3 @@
 
 本程序在ubuntu 18.10上，基于Python 3.6开发
 
-```python
-python
-```
