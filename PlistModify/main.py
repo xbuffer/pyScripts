@@ -15,7 +15,7 @@ PlistPath = "F:\\学习相关文档\\test\\pyScripts\\PlistModify\\"
 #     index = manhuaUrls.index(searchUrl)
 #     # 修改块的指定内容
 #     # print(pl['Servers'][index]['serverOnlyID'])
-#     pl['PlistInfo']['updateUrl'] = "https://raw.githubusercontent.com/xbuffer/LearnPython/tree/master/PlistModify/hjmh.plist"
+#     pl['PlistInfo']['updateUrl'] = "https://github.com/xbuffer/pyScripts/blob/master/PlistModify/hjmh.plist"
 #     # 增加指定内容
 #
 #     # 保存修改后的内容
